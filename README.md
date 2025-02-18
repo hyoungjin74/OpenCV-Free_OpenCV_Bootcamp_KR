@@ -10,6 +10,6 @@ Link: [OpenCV Course](https://opencv.org/university/free-opencv-course/?utm_sour
 ---
 ### 진행상황
 * 01_Getting_Started_with_Images
-  * : 작업중
+  * : 번역중
 * 02_Basic_Image_Manipulations_Crop_Resize_Flip_and_Modify_Pixels
-  * : 작업중
+  * : 번역중

@@ -1,4 +1,4 @@
-# OpenCV-Free_OpenCV_Bootcamp_KR
+# Free_OpenCV_Bootcamp_KR
 ## OpenCV University에서 제공하는 'Free OpenCV Bootcamp'의 실습자료를 한국어로 번역한다.
 * 텍스트의 설명과 주석을 한국어로 번역한다.
 * OpenCV를 공부하는 한국인의 진입이 쉽도록 도와준다.

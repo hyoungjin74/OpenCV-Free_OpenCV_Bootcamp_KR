@@ -6,3 +6,10 @@
 
 강의 사이트는 아래 링크를 통해 이메일 가입 후 대시보드로 이동할 수 있다.   
 Link: [OpenCV Course](https://opencv.org/university/free-opencv-course/?utm_source=opcvu&utm_medium=menu&utm_campaign=obc, "Free OpenCV Bootcamp")
+
+---
+### 진행상황
+* 01_Getting_Started_with_Images
+  * : 작업중
+* 02_Basic_Image_Manipulations_Crop_Resize_Flip_and_Modify_Pixels
+  * : 작업중

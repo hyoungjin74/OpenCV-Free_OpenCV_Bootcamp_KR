@@ -13,4 +13,10 @@ Link: [OpenCV Course](https://opencv.org/university/free-opencv-course/?utm_sour
 * 02_Basic_Image_Manipulations_Crop_Resize_Flip_and_Modify_Pixels
   * : 번역 완료
 * 03_Annotating_Images 
-  * : 번역중  
+  * : 번역 완료  
+* 04_Basic_Image_Enhancement_Mathematical_Operations
+  * : 번역 완료
+* 05_Accessing_the_camera
+  * : 노트북 미제공
+* 06_Writing_Video_using_OpenCV
+  * : 번역중 

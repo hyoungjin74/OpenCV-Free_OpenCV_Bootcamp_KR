@@ -17,6 +17,6 @@ Link: [OpenCV Course](https://opencv.org/university/free-opencv-course/?utm_sour
 * 04_Basic_Image_Enhancement_Mathematical_Operations
   * : 번역 완료
 * 05_Accessing_the_camera
-  * : 노트북 미제공
+  * : 노트북 미제공, 강의 영상 및 강의 자료 참고
 * 06_Writing_Video_using_OpenCV
-  * : 번역중 
+  * : 번역 완료

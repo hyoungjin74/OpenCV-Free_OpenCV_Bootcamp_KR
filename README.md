@@ -3,7 +3,8 @@
 * 텍스트의 설명과 주석을 한국어로 번역한다.
 * OpenCV를 공부하는 한국인의 진입이 쉽도록 도와준다.
 
-**일부 강의는 파이썬 코드를 제공한다. 해당 강의 주제들은 **코드 제공**으로 표시했으며, 강의를 들으며 확인하길 바란다.**
+일부 강의는 파이썬 코드를 제공한다. 해당 강의 주제들은 **코드 제공**으로 표시했으며, 강의를 들으며 확인하길 바란다.
+
 강의 사이트는 아래 링크를 통해 이메일 가입 후 대시보드로 이동할 수 있다.   
 Link: [OpenCV Course](https://opencv.org/university/free-opencv-course/?utm_source=opcvu&utm_medium=menu&utm_campaign=obc, "Free OpenCV Bootcamp")
 

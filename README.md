@@ -26,3 +26,7 @@ Link: [OpenCV Course](https://opencv.org/university/free-opencv-course/?utm_sour
   * : 코드 제공, 강의 영상 및 강의 자료 참고 
 * 08_Image_Alignment
   * : 번역 완료
+* 09_Panorama
+  * : 번역 완료
+* 10_hdr
+  * : 번역 중

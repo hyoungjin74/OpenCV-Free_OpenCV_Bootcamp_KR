@@ -37,4 +37,4 @@ Link: [OpenCV Course](https://opencv.org/university/free-opencv-course/?utm_sour
 * 13_tf_object_detection
   * : 번역 완료
 * 14_OpenPose
-  * : 번역 중
+  * : 번역 완료
